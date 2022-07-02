@@ -16,7 +16,7 @@ Config.Vehicles = {
 
 Config.Zones = {
 
-	MechanicActions = { --Varasto, pomo menu jne
+	baariActions = { --Varasto, pomo menu jne
 		Pos   = { x = -214.5030, y = -1341.8999, z = 34.8954},
 		Size  = { x = 1.5, y = 1.5, z = 1.0 },
 		Color = { r = 121, g = 205, b = 121 },
